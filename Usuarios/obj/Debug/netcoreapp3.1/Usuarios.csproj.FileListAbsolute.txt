@@ -991,8 +991,6 @@ E:\ESTUDIOS\UPN\CICLO VII\DISEÑO Y ARQUITECTURA DE SOTFWARE\PROYECTO\Avances\T2
 E:\ESTUDIOS\UPN\CICLO VII\DISEÑO Y ARQUITECTURA DE SOTFWARE\PROYECTO\Avances\T2\Usuarios\Usuarios\Usuarios\obj\Debug\netcoreapp3.1\Usuarios.RazorCoreGenerate.cache
 E:\ESTUDIOS\UPN\CICLO VII\DISEÑO Y ARQUITECTURA DE SOTFWARE\PROYECTO\Avances\T2\Usuarios\Usuarios\Usuarios\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 E:\ESTUDIOS\UPN\CICLO VII\DISEÑO Y ARQUITECTURA DE SOTFWARE\PROYECTO\Avances\T2\Usuarios\Usuarios\Usuarios\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Users\Index.cshtml.g.cs
-E:\ESTUDIOS\UPN\CICLO VII\DISEÑO Y ARQUITECTURA DE SOTFWARE\PROYECTO\Avances\T2\Usuarios\Usuarios\Usuarios\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Users\Registrar.cshtml.g.cs
-E:\ESTUDIOS\UPN\CICLO VII\DISEÑO Y ARQUITECTURA DE SOTFWARE\PROYECTO\Avances\T2\Usuarios\Usuarios\Usuarios\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Users\Users.cshtml.g.cs
 E:\ESTUDIOS\UPN\CICLO VII\DISEÑO Y ARQUITECTURA DE SOTFWARE\PROYECTO\Avances\T2\Usuarios\Usuarios\Usuarios\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 E:\ESTUDIOS\UPN\CICLO VII\DISEÑO Y ARQUITECTURA DE SOTFWARE\PROYECTO\Avances\T2\Usuarios\Usuarios\Usuarios\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 E:\ESTUDIOS\UPN\CICLO VII\DISEÑO Y ARQUITECTURA DE SOTFWARE\PROYECTO\Avances\T2\Usuarios\Usuarios\Usuarios\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
@@ -1010,3 +1008,5 @@ E:\ESTUDIOS\UPN\CICLO VII\DISEÑO Y ARQUITECTURA DE SOTFWARE\PROYECTO\Avances\T2
 E:\ESTUDIOS\UPN\CICLO VII\DISEÑO Y ARQUITECTURA DE SOTFWARE\PROYECTO\Avances\T2\Usuarios\Usuarios\Usuarios\obj\Debug\netcoreapp3.1\Usuarios.dll
 E:\ESTUDIOS\UPN\CICLO VII\DISEÑO Y ARQUITECTURA DE SOTFWARE\PROYECTO\Avances\T2\Usuarios\Usuarios\Usuarios\obj\Debug\netcoreapp3.1\Usuarios.pdb
 E:\ESTUDIOS\UPN\CICLO VII\DISEÑO Y ARQUITECTURA DE SOTFWARE\PROYECTO\Avances\T2\Usuarios\Usuarios\Usuarios\obj\Debug\netcoreapp3.1\Usuarios.genruntimeconfig.cache
+E:\ESTUDIOS\UPN\CICLO VII\DISEÑO Y ARQUITECTURA DE SOTFWARE\PROYECTO\Avances\T2\Usuarios\Usuarios\Usuarios\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Users\login.cshtml.g.cs
+E:\ESTUDIOS\UPN\CICLO VII\DISEÑO Y ARQUITECTURA DE SOTFWARE\PROYECTO\Avances\T2\Usuarios\Usuarios\Usuarios\obj\Debug\netcoreapp3.1\Razor\Areas\Users\Views\Users\registrar.cshtml.g.cs

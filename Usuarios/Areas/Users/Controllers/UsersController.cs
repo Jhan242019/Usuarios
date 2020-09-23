@@ -14,9 +14,9 @@ namespace Usuarios.Areas.Users.Controllers
         {
             return View("Index");
         }
-        public ViewResult Users()
+        public ViewResult Login()
         {
-            return View("Users");
+            return View("Login");
         }
 
         public ViewResult Registrar()
