@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ESTUDIOS\\UPN\\CICLO VII\\DISEÑO Y ARQUITECTURA DE SOTFWARE\\PROYECTO\\Avances\\T1\\Usuarios\\Usuarios\\Usuarios\\Usuarios\\Usuarios.csproj": {}
+    "E:\\ESTUDIOS\\UPN\\CICLO VII\\DISEÑO Y ARQUITECTURA DE SOTFWARE\\PROYECTO\\Avances\\T2\\Usuarios\\Usuarios\\Usuarios\\Usuarios.csproj": {}
   },
   "projects": {
-    "E:\\ESTUDIOS\\UPN\\CICLO VII\\DISEÑO Y ARQUITECTURA DE SOTFWARE\\PROYECTO\\Avances\\T1\\Usuarios\\Usuarios\\Usuarios\\Usuarios\\Usuarios.csproj": {
+    "E:\\ESTUDIOS\\UPN\\CICLO VII\\DISEÑO Y ARQUITECTURA DE SOTFWARE\\PROYECTO\\Avances\\T2\\Usuarios\\Usuarios\\Usuarios\\Usuarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ESTUDIOS\\UPN\\CICLO VII\\DISEÑO Y ARQUITECTURA DE SOTFWARE\\PROYECTO\\Avances\\T1\\Usuarios\\Usuarios\\Usuarios\\Usuarios\\Usuarios.csproj",
+        "projectUniqueName": "E:\\ESTUDIOS\\UPN\\CICLO VII\\DISEÑO Y ARQUITECTURA DE SOTFWARE\\PROYECTO\\Avances\\T2\\Usuarios\\Usuarios\\Usuarios\\Usuarios.csproj",
         "projectName": "Usuarios",
-        "projectPath": "E:\\ESTUDIOS\\UPN\\CICLO VII\\DISEÑO Y ARQUITECTURA DE SOTFWARE\\PROYECTO\\Avances\\T1\\Usuarios\\Usuarios\\Usuarios\\Usuarios\\Usuarios.csproj",
+        "projectPath": "E:\\ESTUDIOS\\UPN\\CICLO VII\\DISEÑO Y ARQUITECTURA DE SOTFWARE\\PROYECTO\\Avances\\T2\\Usuarios\\Usuarios\\Usuarios\\Usuarios.csproj",
         "packagesPath": "C:\\Users\\JC\\.nuget\\packages\\",
-        "outputPath": "E:\\ESTUDIOS\\UPN\\CICLO VII\\DISEÑO Y ARQUITECTURA DE SOTFWARE\\PROYECTO\\Avances\\T1\\Usuarios\\Usuarios\\Usuarios\\Usuarios\\obj\\",
+        "outputPath": "E:\\ESTUDIOS\\UPN\\CICLO VII\\DISEÑO Y ARQUITECTURA DE SOTFWARE\\PROYECTO\\Avances\\T2\\Usuarios\\Usuarios\\Usuarios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JC\\AppData\\Roaming\\NuGet\\NuGet.Config",

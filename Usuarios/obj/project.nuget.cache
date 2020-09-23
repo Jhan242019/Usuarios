@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zSowGmvjVUCL/fVeNkPx+zWI68HfAm+lJC9xZiHoeYNUCUGn2yQHn6L2X85PIPY0TO8nRWlWB7c2szB+J+ItEg==",
+  "dgSpecHash": "2T7MaSfYPo2JvRfYajj7r+Qcf8dMiRs7sG/dlR15ucfXYBjWS8AXK9ieuvOu9tHSnSJJ2NuQoS+EfnRFBgl1Rw==",
   "success": true,
-  "projectFilePath": "E:\\ESTUDIOS\\UPN\\CICLO VII\\DISEÑO Y ARQUITECTURA DE SOTFWARE\\PROYECTO\\Avances\\T1\\Usuarios\\Usuarios\\Usuarios\\Usuarios\\Usuarios.csproj",
+  "projectFilePath": "E:\\ESTUDIOS\\UPN\\CICLO VII\\DISEÑO Y ARQUITECTURA DE SOTFWARE\\PROYECTO\\Avances\\T2\\Usuarios\\Usuarios\\Usuarios\\Usuarios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JC\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.7\\microsoft.aspnetcore.cryptography.internal.3.1.7.nupkg.sha512",
     "C:\\Users\\JC\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.7\\microsoft.aspnetcore.cryptography.keyderivation.3.1.7.nupkg.sha512",
